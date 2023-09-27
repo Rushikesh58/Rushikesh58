@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Sawant</h1>
-<h3 align="center">A passionate Data Analyst</h3>
+<h3 align="center">A passionate Data Scientist</h3>
 
-- 🌱 I’m currently learning **Pyspark**
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rushikesh58](https://github.com/Rushikesh58)
 
