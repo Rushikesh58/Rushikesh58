@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **rushikeshsawant58@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1S0umQ1Zbmxw3tVQlQsRjryRj2QIlnvet/view?usp=sharing](https://drive.google.com/file/d/1S0umQ1Zbmxw3tVQlQsRjryRj2QIlnvet/view?usp=sharing)
+- 📄 Know about my experiences https://www.linkedin.com/in/rushikesh-sawant-768083172/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
